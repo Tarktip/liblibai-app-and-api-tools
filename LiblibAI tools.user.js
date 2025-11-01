@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.9
 // @description  提取页面用户信息与生成API数据，支持折叠显示和恢复按钮，右侧伸缩面板，复制功能，并整合批量图片上传生成器
-// @author       Your Name
+// @author       Tarktip
 // @match        https://www.liblib.art/*
 // @match        https://bridge.liblib.art/*
 // @grant        GM_notification
